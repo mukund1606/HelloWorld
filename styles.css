@@ -87,7 +87,15 @@
       font-family: "Rubik", sans-serif;
       font-size: 1vw;
     }
-    
+
+    .heading{
+        display: flex; 
+        flex-direction: column;
+        justify-content:space-evenly;
+        align-items: center;
+        padding: 2vw;
+    }
+
     .main-container {
       display: flex;
       width: 80%;
